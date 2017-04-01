@@ -17,3 +17,9 @@ List:-
 suraznegi@gmail.com 
 9882925886
 https://github.com/Akatsuki06/DieForSpeed.git
+
+2. Sudo-Coders
+(Aditya Arora, B. Jatin Rao, Nitin Sharma, Arpit Agarwal, Yatendra Maurya)
+aadityaaaaroraa@gmail.com
+988296235
+https://github.com/Sudo-Coders/FOSSmaster.git
