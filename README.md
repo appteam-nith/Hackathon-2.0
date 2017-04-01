@@ -42,4 +42,8 @@ gopisingh3131@gmail.com
 
 https://github.com/Gurpreet3131/chessapp
 
-### 6. 
+### 6. Team Anonymous
+(Sudhanshu Raman,Rishabh Chaudhary,Milindra Pratap Singh)
+ramansudhanshu150@gmail.com
+https://github.com/Rishabh04-02/Elective-manager
+
