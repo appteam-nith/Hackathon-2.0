@@ -32,4 +32,11 @@ https://github.com/saurabh0402/cogather
 ### 4. LazyLeaves
 
 
-### 5. 
+
+### 5. Gurpreet - Chess Android App
+
+(Gurpreet Singh)
+
+gopisingh3131@gmail.com
+
+https://github.com/Gurpreet3131/chessapp
