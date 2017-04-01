@@ -2,16 +2,6 @@
 
 Listing of Projects developed in Hackathon 2.0 by AppTeam NITH.
 
-Template:-
-Team Name 
-(Team members)
-Contact: Email and Phone number
-
-Short description
-Github link
-
-List:-
-
 ### 1. Team Akatsuki 
 
 (Suraj Singh,Jai Prakash Khinchi, Sachin Kumar, Dinesh Kumar, Ishant Chauhan)
@@ -39,3 +29,7 @@ saurabh.k0402@gmail.com
 https://github.com/saurabh0402/cogather
 
 
+### 4. LazyLeaves
+
+
+### 5. 
