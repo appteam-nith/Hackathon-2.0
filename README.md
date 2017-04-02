@@ -58,3 +58,18 @@ akp51081@gmail.com
 
 https://github.com/akgurjar/vChat
 
+### 8. AppTeam 1st Year
+
+(Aman Pratap Singh,Palak Sood,Shreyas Khadke, Aditya Wazir, Muskan Jhunjhunwalla)
+
+mnprtpsingh@gmail.com
+
+https://github.com/mnprtpsingh
+
+### 9. Team Innovation
+
+(Charvi Jain, Rakesh Kuamr, Umesh Pant)
+
+cjdirect1234@gmail.com
+
+https://github.com/RamolaWeb/EasyOutPass
