@@ -52,3 +52,9 @@ https://github.com/Rishabh04-02/Elective-manager
 
 
 
+### 7. Team Innovation
+(Charvi Jain, Rakesh Kuamr, Umesh Pant)
+
+cjdirect1234@gmail.com
+
+https://github.com/RamolaWeb/EasyOutPass
