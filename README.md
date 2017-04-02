@@ -50,7 +50,31 @@ ramansudhanshu150@gmail.com
 
 https://github.com/Rishabh04-02/Elective-manager
 
-### 7. Team Code-AI
+### 7. Team nodeJS
+
+(Ashish Gurjar, Amit Chambial, Anchal Gupta)
+
+akp51081@gmail.com
+
+https://github.com/akgurjar/vChat
+
+### 8. AppTeam 1st Year
+
+(Aman Pratap Singh,Palak Sood,Shreyas Khadke, Aditya Wazir, Muskan Jhunjhunwalla)
+
+mnprtpsingh@gmail.com
+
+https://github.com/mnprtpsingh
+
+### 9. Team Innovation
+
+(Charvi Jain, Rakesh Kuamr, Umesh Pant)
+
+cjdirect1234@gmail.com
+
+https://github.com/RamolaWeb/EasyOutPass
+
+### 10. Team Code-AI
 
 (Utkarsh Raj, Suyash Garg, Sarv Shakti Singh)
 
@@ -61,6 +85,4 @@ clearnote01@gmail.com
 suyashgargsfam@gmail.com
 
 https://github.com/Code-AI/code-ai
-
-
 
