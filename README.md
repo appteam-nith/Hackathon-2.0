@@ -117,3 +117,29 @@ kunalstyle97@gmail.com
 
 https://github.com/rajeev29five/BackTrekking
 
+
+### 13. Team AppRangers
+
+(Narendra Dodwaria, Tarun Mahawar)
+
+narendra.dodwaria@gmail.com
+
+https://github.com/TarunMahawar/EmotionSense
+
+
+### 14. Team DeltaForce
+
+(Kartik Kumar)
+
+kartik.4work@gmail.com
+
+
+### 15. Team SerialCoders
+
+(Sarabjit Singh Cheema, Vishal)
+
+vishal129.vk@gmail.com
+
+
+
+
