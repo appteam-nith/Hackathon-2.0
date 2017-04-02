@@ -50,5 +50,11 @@ ramansudhanshu150@gmail.com
 
 https://github.com/Rishabh04-02/Elective-manager
 
+### 7. Team nodeJS
 
+(Ashish Gurjar, Amit Chambial, Anchal Gupta)
+
+akp51081@gmail.com
+
+https://github.com/akgurjar/vChat
 
