@@ -50,7 +50,15 @@ ramansudhanshu150@gmail.com
 
 https://github.com/Rishabh04-02/Elective-manager
 
-### 7. 1st Year AppTeam
+### 7. Team nodeJS
+
+(Ashish Gurjar, Amit Chambial, Anchal Gupta)
+
+akp51081@gmail.com
+
+https://github.com/akgurjar/vChat
+
+### 8. AppTeam 1st Year
 
 (Aman Pratap Singh,Palak Sood,Shreyas Khadke, Aditya Wazir, Muskan Jhunjhunwalla)
 
@@ -58,7 +66,8 @@ mnprtpsingh@gmail.com
 
 https://github.com/mnprtpsingh
 
-### 7. Team Innovation
+### 9. Team Innovation
+
 (Charvi Jain, Rakesh Kuamr, Umesh Pant)
 
 cjdirect1234@gmail.com
