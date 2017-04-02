@@ -95,3 +95,13 @@ suyashgargsfam@gmail.com
 
 https://github.com/Code-AI/code-ai
 
+
+### 11. Brewing Vision
+
+(Karan Guleri,Ayush Aggarwal,Tarun Pratap Singh)
+
+karanguleri.kd@gmail.com
+
+agg.ayush.1997@gmail.com
+
+tarunpratap9754@gmail.com
