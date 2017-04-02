@@ -50,5 +50,17 @@ ramansudhanshu150@gmail.com
 
 https://github.com/Rishabh04-02/Elective-manager
 
+### 7. Team Code-AI
+
+(Utkarsh Raj, Suyash Garg, Sarv Shakti Singh)
+
+singhsarvshakti127@gmail.com
+
+clearnote01@gmail.com
+
+suyashgargsfam@gmail.com
+
+https://github.com/Code-AI/code-ai
+
 
 
