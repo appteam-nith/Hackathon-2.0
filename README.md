@@ -31,7 +31,11 @@ https://github.com/saurabh0402/cogather
 
 ### 4. LazyLeaves
 
-(Param Singh, Abhishek Rastogi, Shikhar Shrivastav)
+(Param Singh, Abhishek Rastogi, Shikhar Srivastava)
+
+princu7@gmail.com
+
+https://github.com/paramsingh/lazycoin
 
 
 ### 5. Gurpreet - Chess Android App
@@ -42,6 +46,7 @@ gopisingh3131@gmail.com
 
 https://github.com/Gurpreet3131/chessapp
 
+
 ### 6. Team Anonymous
 
 (Sudhanshu Raman,Rishabh Chaudhary,Milindra Pratap Singh)
@@ -49,6 +54,7 @@ https://github.com/Gurpreet3131/chessapp
 ramansudhanshu150@gmail.com
 
 https://github.com/Rishabh04-02/Elective-manager
+
 
 ### 7. Team nodeJS
 
@@ -58,6 +64,7 @@ akp51081@gmail.com
 
 https://github.com/akgurjar/vChat
 
+
 ### 8. AppTeam 1st Year
 
 (Aman Pratap Singh,Palak Sood,Shreyas Khadke, Aditya Wazir, Muskan Jhunjhunwalla)
@@ -66,6 +73,7 @@ mnprtpsingh@gmail.com
 
 https://github.com/mnprtpsingh
 
+
 ### 9. Team Innovation
 
 (Charvi Jain, Rakesh Kuamr, Umesh Pant)
@@ -73,6 +81,7 @@ https://github.com/mnprtpsingh
 cjdirect1234@gmail.com
 
 https://github.com/RamolaWeb/EasyOutPass
+
 
 ### 10. Team Code-AI
 
