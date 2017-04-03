@@ -2,7 +2,7 @@
 
 Listing of Projects developed in Hackathon 2.0 by AppTeam NITH.
 
-### 1. Team Akatsuki 
+### 1. Team Akatsuki
 
 (Suraj Singh,Jai Prakash Khinchi, Sachin Kumar, Dinesh Kumar, Ishant Chauhan)
 
@@ -31,11 +31,15 @@ https://github.com/saurabh0402/cogather
 
 ### 4. LazyLeaves
 
-(Param Singh, Abhishek Rastogi, Shikhar Srivastava)
+Project name: Lazycoin
 
-princu7@gmail.com
+Project link: https://github.com/paramsingh/lazycoin
 
-https://github.com/paramsingh/lazycoin
+Description: An implementation of a blockchain used to manage transactions in a new cryptocurrency called lazycoin.
+
+* [Param Singh](https://github.com/paramsingh)
+* [Abhishek Rastogi](https://github.com/Princu7)
+* [Shikhar Srivastava](https://github.com/shikharsrivastava)
 
 
 ### 5. Gurpreet - Chess Android App
