@@ -32,6 +32,9 @@ https://github.com/Sudo-Coders/FOSSmaster.git
 
 saurabh.k0402@gmail.com
 
+Project Description: A codepen inspired web app that allows you to collaborate simultaneously and then save your work offline 👽
+
+
 https://github.com/saurabh0402/cogather
 
 
@@ -137,6 +140,8 @@ https://github.com/rajeev29five/BackTrekking
 (Narendra Dodwaria, Tarun Mahawar)
 
 narendra.dodwaria@gmail.com
+
+Project Description: Emotions are really an important part of our lives and have enough power to change it for better or bad. So, we made an android app which can help us detect emotions either from written text or an image. We build it using Microsoft Cognitive services and everything else is just an abstraction.
 
 https://github.com/TarunMahawar/EmotionSense
 
